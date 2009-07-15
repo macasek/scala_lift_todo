@@ -18,3 +18,5 @@ derby.log
 *.bak
 *.off
 *.old
+lift_example
+target
